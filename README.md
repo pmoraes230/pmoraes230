@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi, how are you? <a href="https://www.linkedin.com/in/patrick-nascimento-585815230/" target="_blank"><i>Patrick Nascimento</i></a> 😃️</h1>
+  <h1 align="center">Hi, how are you? I'm <a href="https://www.linkedin.com/in/patrick-nascimento-585815230/" target="_blank"><i>Patrick Nascimento</i></a> 😃️</h1>
   <p align="center">Dev beginner 😉️</h2>
 </div>
 
