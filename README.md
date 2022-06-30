@@ -5,7 +5,7 @@
 
 
 <h1 align="center"> 
-  Hi guys 👽
+  Hi guys, welcome my profile in Github 👽
 </h1>
 
 <p align="center"><i>” A arte de programar consiste em organizar e dominar a complexidade. “
