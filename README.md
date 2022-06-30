@@ -1,27 +1,46 @@
-### Hi there 👋
+<div>
+  <h1 align="center">Hi, how are you? <a href="https://www.linkedin.com/in/patrick-nascimento-585815230/" target="_blank"><i>Patrick Nascimento</i></a> 😃️</h1>
+  <p align="center">Dev beginner 😉️</h2>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Fullstack in Dio
-- 💬 Ask me about programming beginner
-- 😄 Pronouns: He
+
+<h1 align="center"> 
+  Hi guys 👽
+</h1>
+
+<p align="center"><i>” A arte de programar consiste em organizar e dominar a complexidade. “
+<br> Edsger W. Dijkstra"</i></p>
+
+<!-- informações github-->
+<div align="center">
+  <a href="https://github.com/pmoraes230">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pmoraes230&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmoraes230&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<!-- area de png-->
+<div align="center" valign="top"><br>
+ 
+  <img align="center" alt="github" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/38/38401.png">
+  <img align="center" alt="HTML 5" height="30" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
+<div align="center">
+  
+  <!-- area redes sociais-->
+  <a href="https://www.instagram.com/patrick_nascimento_206/" target="_blank"><img align src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/patrick.nascimento.35574/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/patrick-nascimento-585815230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:pmoraes230nascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center">
-<a href="https://github.com/pmoraes230">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pmoraes230&show_icons=true&theme=dracula&include_all_commits
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmoraes230&layout=compact&langs_count=7&theme=dra
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ja
-<img align="center" alt="Dev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/ty
-<img align="center" alt="Dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/reac
-<img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
-<img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
-</div>
-##
-<div>
-<a href="https://www.youtube.com/channel/UC44Y7HUcjOu200dbBYjSjjQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?s
-<a href="AQUI VAI O LINK DO INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&log
-<a href = "mailto:devbatistacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoCo
-<a href="AQUI VAI O LINK DO LINKEDIM" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=
-![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
