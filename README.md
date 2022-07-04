@@ -22,7 +22,6 @@
 <!-- area de png-->
 <div align="center" valign="top"><br>
  
-  <img align="center" alt="github" height="30" width="40" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png">
   <img align="center" alt="HTML 5" height="30" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://seeklogo.com/images/G/gitlab-logo-FAA48EFD02-seeklogo.com.png">
