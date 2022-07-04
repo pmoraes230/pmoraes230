@@ -25,6 +25,7 @@
   <img align="center" alt="github" height="30" width="40" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png">
   <img align="center" alt="HTML 5" height="30" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://seeklogo.com/images/G/gitlab-logo-FAA48EFD02-seeklogo.com.png">
 <div align="center">
   
   <!-- area redes sociais-->
@@ -32,6 +33,7 @@
   <a href="https://www.facebook.com/patrick.nascimento.35574/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrick-nascimento-585815230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:pmoraes230nascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/pmoraes230"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </div>
 
 <div align="center">
