@@ -14,7 +14,7 @@
 <!-- informações github-->
 <div align="center">
   <a href="https://github.com/pmoraes230">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pmoraes230&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pmoraes230&account_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmoraes230&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
