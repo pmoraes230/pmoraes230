@@ -24,8 +24,7 @@
  
   <img align="center" alt="HTML 5" height="30" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
-  <img align="center" alt="GITLAB" height="30" width="40" src="https://seeklogo.com/images/G/gitlab-logo-FAA48EFD02-seeklogo.com.png">
-  <img align="center" alt="Twitter" height="30" width="40" src="https://www.clipartmax.com/png/full/35-351265_twitter-png-png-images-twitter-round-logo-png-transparent-background.png">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png">
 <div align="center">
   
   <!-- area redes sociais-->
