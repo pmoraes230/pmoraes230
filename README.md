@@ -26,7 +26,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png">
 <div align="center">
-  
+  <br>
   <!-- area redes sociais-->
   <a href="https://twitter.com/pmoraes2300" target="_blank"><img align src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/patrick_nascimento_206/" target="_blank"><img align src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
